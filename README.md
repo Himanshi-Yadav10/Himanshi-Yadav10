@@ -22,11 +22,11 @@
 <br/>
 
 #
-
+<!--
 ### Top languages used 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshi-Yadav10&layout=donut&size_weight=0.5&count_weight=0.5)](https://github.com/Himanshi-Yadav10/github-readme-stats)
 </br>
 
 #
-
+-->
